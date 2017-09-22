@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Michikusa.iml" filepath="$PROJECT_DIR$/Michikusa.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/michikusa_map/michikusa_map.iml" filepath="$PROJECT_DIR$/michikusa_map/michikusa_map.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Michikusa_X.iml" filepath="$PROJECT_DIR$/Michikusa_X.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+>>>>>>> d69a69405317c503550630f239b38d3326d3e788
     </modules>
   </component>
 </project>
