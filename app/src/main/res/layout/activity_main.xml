@@ -6,20 +6,4 @@
     android:layout_height="match_parent"
     tools:context="com.example.enpit_p15.michikusa.MainActivity">
 
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="16dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp">
-
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="バス停の名前を入力してください" />
-    </android.support.design.widget.TextInputLayout>
 </android.support.constraint.ConstraintLayout>
